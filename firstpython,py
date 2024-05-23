@@ -1,0 +1,4 @@
+y=int(input("Enter the number"))
+for y in range(2, 10):
+  y+=5
+print(y)
